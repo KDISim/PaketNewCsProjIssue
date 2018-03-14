@@ -1,0 +1,1 @@
+nuget Newtonsoft.Json -> source .\source\Newtonsoft.Json\ version 0.0.0-local
